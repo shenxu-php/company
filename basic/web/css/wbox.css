@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+}
+html,body{
+  _height:100%; _overflow:hidden;
+}
+#wBox .wBox_b {
+	FILTER: alpha(opacity=0); BACKGROUND-IMAGE: url(wbox.jpg); WIDTH: 10px; -moz-opacity: 0; opacity: 0
+}
+#wBox {
+	DISPLAY: none; Z-INDEX: 100; LEFT: 0px; POSITION: absolute; TOP: 0px; TEXT-ALIGN: left
+}
+#wBox .wBox_popup {
+	POSITION: relative
+}
+#wBox TABLE {
+	BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+#wBox TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#wBox .wBox_body {
+	BORDER-RIGHT: #46a7df 1px solid; BORDER-TOP: #46a7df 1px solid; BORDER-LEFT: #46a7df 1px solid; BORDER-BOTTOM: #46a7df 1px solid; BACKGROUND-COLOR: #f1f6ff
+}
+#wBox IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#wBox .wBox_title {
+	BACKGROUND: url(titleBG.png) repeat-x; WIDTH: 100%; COLOR: #000000; HEIGHT: 28px
+}
+#wBox .wBox_title .wBox_itemTitle {
+	PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 14px; OVERFLOW: hidden; COLOR: #fff
+}
+#wBox .wBox_title .wBox_close {
+	BACKGROUND: url(close.png) no-repeat 0px 0px; OVERFLOW: hidden; WIDTH: 14px; CURSOR: pointer; HEIGHT: 14px
+}
+.wBox_ok {
+	MARGIN-LEFT: 3px; CURSOR: pointer
+}
+.wBox_yes {
+	MARGIN-LEFT: 3px; CURSOR: pointer
+}
+#wBox .wBox_title .on {
+	BACKGROUND-POSITION: 0px -14px
+}
+#wBox .wBox_tl {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FILTER: alpha(opacity=0); BACKGROUND-IMAGE: url(wbox.jpg); PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 10px; PADDING-TOP: 0px; HEIGHT: 10px; -moz-opacity: 0; opacity: 0
+}
+#wBox .wBox_tr {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FILTER: alpha(opacity=0); BACKGROUND-IMAGE: url(wbox.jpg); PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 10px; PADDING-TOP: 0px; HEIGHT: 10px; -moz-opacity: 0; opacity: 0
+}
+#wBox .wBox_bl {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FILTER: alpha(opacity=0); BACKGROUND-IMAGE: url(wbox.jpg); PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 10px; PADDING-TOP: 0px; HEIGHT: 10px; -moz-opacity: 0; opacity: 0
+}
+#wBox .wBox_br {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FILTER: alpha(opacity=0); BACKGROUND-IMAGE: url(wbox.jpg); PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 10px; PADDING-TOP: 0px; HEIGHT: 10px; -moz-opacity: 0; opacity: 0
+}
+#wBox #wBoxContent {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#wBox_overlay {
+	RIGHT: 1px; LEFT: 0px; BOTTOM: 1px; POSITION: absolute; TOP: 0px
+}
+#wBox .wBox_load {
+	WIDTH: 270px
+}
+.wBox_hide {
+	Z-INDEX: -100
+}
+.wBox_overlayBG {
+	Z-INDEX: 99; BACKGROUND-COLOR: #fff
+}
+#wBox #wBox_loading {
+	MARGIN: 0px auto; WIDTH: 32px; HEIGHT: 32px
+}

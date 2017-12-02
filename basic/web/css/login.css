@@ -1,0 +1,46 @@
+@charset "gb2312";
+BODY {
+	FONT-SIZE: 12px; BACKGROUND-COLOR: #044269
+}
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 100%
+}
+HTML {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 100%
+}
+.content-div {
+	BACKGROUND: url(/assets/images/loginbg.jpg) repeat-x 0px 0px; HEIGHT: 530px
+}
+.content {
+	BACKGROUND: url(/assets/images/login.jpg) no-repeat 0px 0px; MARGIN: 0px auto; WIDTH: 946px; POSITION: relative; HEIGHT: 530px
+}
+.subCls {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: url(/assets/images/loginBtn.jpg) no-repeat 0px 0px; WIDTH: 76px; CURSOR: pointer; COLOR: #fff; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 27px; BORDER-BOTTOM-STYLE: none
+}
+.formCls {
+	LEFT: 417px; WIDTH: 317px; POSITION: absolute; TOP: 348px; z-index:1;
+}
+.formCls LABEL {
+	DISPLAY: inline-block; FONT-WEIGHT: bold; FONT-SIZE: 14px; WIDTH: 65px; COLOR: #06436f; LINE-HEIGHT: 40px; MARGIN-RIGHT: 10px; TEXT-ALIGN: right
+}
+.formCls LABEL.userCls {
+	BACKGROUND: url(/assets/images/user.jpg) no-repeat 5px center
+}
+.formCls LABEL.pasCls {
+	BACKGROUND: url(/assets/images/password.jpg) no-repeat 18px center
+}
+.formClsLeft {
+	FLOAT: left; MARGIN-RIGHT: 20px
+}
+.divCls {
+	
+}
+INPUT {
+	BORDER-RIGHT: #06436f 1px solid; BORDER-TOP: #06436f 1px solid; BORDER-LEFT: #06436f 1px solid; WIDTH: 158px; BORDER-BOTTOM: #06436f 1px solid
+}
+.textRight {
+	TEXT-ALIGN: right; width:240px;
+}
+.config {
+	RIGHT: 0px; COLOR: #5a96b8; BOTTOM: 0px; LINE-HEIGHT: 30px; POSITION: absolute
+}

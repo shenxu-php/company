@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+#box{
+	position:absolute; z-index:11;
+}
+#box_center{
+	width:364px; height:134px;background:#FFFFFF;position:absolute;z-index:13;display:none;
+}
+#box_border{
+	position:absolute;z-index:12; width:380px; height:150px; background:#000000;filter:alpha(opacity=15,Style=0);Opacity:1;display:none;
+}
+#box_all{
+	position:absolute;background:#000000;filter:alpha(opacity=50,Style=0);Opacity:1; width:2000px; height:1200px; left:0px; top:0px; z-index:10; display:none;
+}

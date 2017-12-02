@@ -1,0 +1,112 @@
+@charset "gb2312";
+.case_pic_bg{
+	margin:0 auto; width:960px; height:170px; background:url(/assets/images/p4.jpg) no-repeat;
+}
+.case_pic_bg1{
+	margin:0 auto; width:960px; height:232px; background:url(/assets/images/p16.jpg) no-repeat;
+}
+.case_pic_bg2{
+	margin:0 auto; width:960px; height:190px; background:url(/assets/images/p8.jpg) no-repeat;
+}
+.case_pic_bg3{
+	margin:0 auto; width:960px; height:232px; background:url(/assets/images/p11.jpg) no-repeat;
+}
+.case_pic_bg6{
+	margin:0 auto; width:960px; height:232px; background:url(/assets/images/p15.jpg) no-repeat;
+}
+.case_pic_bg4{
+	margin:0 auto; width:960px; height:190px; background:url(/assets/images/p13.jpg) no-repeat;
+}
+.case_pic_bgt{
+	margin:0 auto; width:960px; height:222px; background:url(/assets/images/p17.jpg) no-repeat;
+}
+.right{
+	float:left; width:735px; height:auto; border:#dbd8d8 1px solid; border-left:#f4f4f4 1px solid;
+}
+.right .t{
+	float:left; width:675px; margin-left:30px; text-align:left; padding-top:20px;font-weight:bold;font-size:15px;color:#8e8d8d;font-family:Arial;color:#cc0000; border-bottom:#CCCCCC 1px dotted; display:inline; margin-right:30px; padding-bottom:10px;
+}
+.right .t font{
+	font-family:'Î¢ÈíÑÅºÚ';color:#666666;
+}
+.lister{
+	width:620px; float:left; margin-left:40px; margin-right:40px; display:inline; padding-top:20px; margin-top:0px;
+}
+.lister ul{
+	padding:0;margin:0;list-style:none;background:url(/assets/images/li.gif) no-repeat 8px 12px; 
+}
+.lister li{
+	padding:0;margin:0;list-style:none;background:url(/assets/images/li.gif) no-repeat 8px 12px; 
+}
+.lister ul li{
+	text-align:left;clear:both;height:32px; padding-left:20px;border-bottom:1px #e3e3e3 dotted;overflow:hidden; line-height:32px;font-size:12px; font-weight:normal;
+}
+.lister .rt1{
+	color:#999999;float:right; width:auto; text-align:right; padding-right:4px; font-family:Arial, Helvetica, sans-serif;
+}
+.lister .tags{
+	color:#999999;float:right; width:auto; text-align:right; padding-right:4px; font-family:Arial, Helvetica, sans-serif;
+}
+.lister ul li a{
+	color:#333333; text-decoration:none;
+}
+.lister ul li a:hover{
+	color:#cc0000; text-decoration:underline;
+}
+.center{
+	width:962px;margin:0 auto;height:auto;
+}
+.center .a{
+	width:962px;height:auto;float:left;
+}
+.center .left{
+	width:220px;height:auto;border:#dbd8d8 1px solid;float:left; padding-bottom:20px;
+}
+.l_zx{
+	width:195px;background:#eeeeee url(/assets/images/list_is.png) no-repeat 90% center;height:38px;border-bottom:#dbd8d8 1px solid;float:left;font-weight:900;font-size:16px;color:#3f3f3f;font-family:'Î¢ÈíÑÅºÚ';padding-top:13px; padding-left:25px;
+}
+.l_bg{
+	background:#f7f7f7; float:left; height:auto; width:220px;
+}
+.l_box{
+	width:178px;margin-left:20px;margin-right:20px;display:inline;float:left;border-bottom:#CCCCCC 1px solid; height:54px; overflow:hidden;
+}
+.l_number1{
+	float:left; background:url(/assets/images/list_sel.jpg) no-repeat; width:35px; height:33px; padding-left:13px;font-family:'Î¢ÈíÑÅºÚ'; font-size:18px; color:#FFFFFF; padding-top:6px; margin-top:10px; display:inline; font-weight:bold;
+}
+.l_number{
+	float:left; width:35px; height:33px; padding-left:13px;font-family:'Î¢ÈíÑÅºÚ'; font-size:18px; color:#333333; padding-top:6px; margin-top:10px; display:inline; font-weight:bold;
+}
+.l_title1{
+	float:left;font-family:'Î¢ÈíÑÅºÚ'; font-size:15px; padding-top:16px;color:#333333;
+}
+.l_title{
+	float:left;font-family:'Î¢ÈíÑÅºÚ'; font-size:15px; padding-top:16px;color:#999999;
+}
+.lo1{
+	float:left; width:600px; text-align:center; font-size:14px; font-weight:bold; line-height:23px;height:auto;
+}
+.lo2{
+	float:left; width:600px; text-align:center; font-size:12px;line-height:30px;color:#999999; border-bottom:#CCCCCC 1px dashed;height:auto;
+}
+.lo3{
+	float:left;width:600px;font-size:12px;line-height:20px;color:#666666;height:auto;padding-top:10px;padding-bottom:10px;text-align:left;
+}
+.tag{
+	float:left; width:600px;font-size:12px; line-height:23px;color:#999999; height:auto;padding-top:10px;padding-bottom:10px;
+}
+.hash{
+	width:960px; margin:0 auto; height:43px; background:url(/assets/images/about_title.jpg) no-repeat;
+}
+.hash1{
+	width:960px; margin:0 auto; height:43px; background:url(/assets/images/contact.jpg) no-repeat;
+}
+.hash2{
+	width:960px; margin:0 auto; height:43px; background:url(/assets/images/job.jpg) no-repeat;
+}
+.lx{
+	width:950px; float:left; height:auto; line-height:23px; padding-top:20px;color:#333333; padding-left:10px;
+}
+.lix{
+	width:960px; margin: 0 auto; height:auto;
+}

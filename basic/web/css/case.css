@@ -1,0 +1,111 @@
+@charset "gb2312";
+/* CSS Document */
+.case_pic_bg{
+	margin:0 auto; width:960px; height:170px; background:url(/public/images/p4.jpg) no-repeat;
+}
+.case_pic_bg5{
+	margin:0 auto; width:960px; height:246px; background:url(/public/images/p14.jpg) no-repeat;
+}
+.case_sy{
+	width:960px; height:35px; background:url(/public/images/dot_2.jpg) no-repeat;margin:0 auto;
+}
+.case_sy_ico{
+	float:left; padding-left:25px; width:87px;
+}
+.case_sy_type{
+	float:left; color:#FF0000; padding-top:2px;
+}
+.case_sy_type a{
+	color:#cc0000; text-decoration:underline;
+}
+.case_sy_type a:hover{
+	color:#333333; text-decoration:underline;
+}
+.case_sy_type span{
+	padding-left:7px;
+	padding-right:5px;
+}
+.case_sy_stext{
+	float:left; padding-left:60px; text-align:left; padding-top:5px;
+}
+.case_sy_input{
+	float:left; padding-left:5px; text-align:left;
+}
+.case_sy_btn{
+	float:left; padding-left:10px;
+}
+.case_sy_btn input{
+	width:38px; height:25px; border:#cccccc 2px solid;
+}
+.case_box{
+	width:295px;height:auto;padding-right:16px;float:left; margin-bottom:15px;*margin-bottom:0px;
+}
+.case_b{
+	width:938px; height:auto; border:#cccccc 1px solid; margin:0 auto; padding-left:18px; padding-top:20px;Overflow:hidden;
+}
+.case_box_images{
+	float:left;width:290px;
+}
+.case_box_title{
+	float:left; width:235px; text-align:left; padding-left:15px; padding-top:10px;color:#444444;font-weight:bold;
+}
+.case_box_more{
+	float:left; width:40px; height:11px; padding-top:10px;
+}
+.case_box_images img{
+	width:290px; height:155px;
+}
+.case_box_images a img{
+ 	border:#ffffff 3px solid;
+}
+.case_box_images a:hover img{
+ 	border:#cc0000 3px solid;
+}
+.case_box_more a.more{
+	background:url(/public/images/more.gif) left top no-repeat; width:auto; height:11px; line-height:11px;padding-left:40px;display:inline-block; text-decoration:none;cursor:pointer;
+}
+.case_box_time{
+	float:left; width:275px; text-align:left; padding-left:15px; padding-top:5px;color:#999999; font-size:11px;
+}
+.case_box_content{
+	float:left; width:275px; padding-top:5px; padding-left:15px;color:#888888; padding-bottom:20px; line-height:22px;
+}
+.case_box_title a{
+	color:#444444;
+}
+.case_box_title a:hover{
+	color:#cc0000;
+}
+.case_img{
+	float:left; width:310px; height:155px;
+}
+.case_img img{
+	width:290px; height:155px; border:#e4e4e4 1px solid;
+}
+.case_right{
+	float:left; width:600px; height:auto;
+}
+.case_t_ico{
+	float:left; width:12px; height:15px; background:url(/public/images/anlis_bg2.gif) no-repeat;
+}
+.case_title{
+	float:left; width:578px; text-align:left; color:#333333; font-size:14px; font-weight:bold; padding-left:10px;
+}
+.case_des{
+	float:left; width:600px; height:auto; line-height:25px; padding-top:5px; color:#666666;
+}
+.case_gray_box{
+	float:left; width:585px; background:#f4f4f4; height:20px; text-align:left; padding-left:15px; color:#666666; padding-top:10px; color:#666666;
+}
+.case_gray_box label{
+	padding-left:10px;padding-right:10px;font-family:"Microsoft YaHei","Î¢ÈíÑÅºÚ",tahoma,arial,simsun,"ËÎÌå";color:#666666;
+}
+.case_inline{
+	float:left; width:905px; border-bottom:#e4e4e4 2px solid; padding-top:10px;margin-left:3px; overflow:hidden; height:2px;
+}
+.case_text_bg{
+	width:918px; height:48px; background:url(/public/images/anlis_bg4.gif) no-repeat; float:left;
+}
+#case_ct{
+	float:left; width:903px; border:#e4e4e4 1px solid; background:#f4f4f4; height:auto; margin-left:2px; margin-left:4px !important; overflow:hidden; text-align:center; padding-top:15px;
+}

@@ -1,0 +1,21 @@
+﻿@charset "utf-8";
+/* CSS Document */
+body,td,th {
+	font-size: 12px;
+}
+.index a{
+	color:#333333;
+	text-decoration:underline;
+}
+.index a:hover{
+	color:#cc0000;
+	text-decoration:line-through;
+}
+.content a{
+	color:#666666;
+	text-decoration:none;	
+}
+.content a:hover{
+	color:#cc0000;
+	text-decoration:underline;
+}
